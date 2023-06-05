@@ -17,7 +17,7 @@ Crear una aplicación web con react, que consuma la API, debe poder elegir las d
 ## Como clonar el respositorio 🖨
 
 ```bash
-git clone 
+git clone https://github.com/teoMunoz99/tp1-react-eje12
 ```
 ## Autor 👦
 
